@@ -1,6 +1,3 @@
-## Hi there 👋
-
-Welcome to this loop hole
 <!--
 
 **Here are some ideas to get you started:**
